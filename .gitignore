@@ -1,7 +1,8 @@
 # user defined
 .idea/
 checkpoints/*
-data/*
+data/USPTO_50k
+data/USPTO_DIVERSE
 logs/*
 results/*
 preprocessed/*
